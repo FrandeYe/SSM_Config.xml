@@ -13,6 +13,7 @@
     <classPathEntry location="${jdbc.driverLocation}"/>
 
     <context id="default">
+	
         <commentGenerator>
             <!-- 是否去除自动生成的注释 true：是 ： false:否 -->
             <property name="suppressAllComments" value="true"/>
