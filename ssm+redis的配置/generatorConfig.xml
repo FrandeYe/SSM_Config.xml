@@ -5,6 +5,7 @@
         "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
 
 <generatorConfiguration>
+
     <!--导入属性配置-->
     <properties resource="jdbc.properties"></properties>
     <!--<properties url="jdbc.properties"></properties>-->
